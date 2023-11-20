@@ -1,1 +1,3 @@
-# Atvdds
+# Gustavo Atvdds.dev
+
+Essas foram atividades realizadas co intuito de aprendizagem da disciplina de Linguagem de programação...
